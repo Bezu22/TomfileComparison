@@ -1,0 +1,12 @@
+{
+    "path_left": "P:/toolroom/user/tools/TEST COMP",
+    "path_right": "P:/toolroom/user/tools/TEST W",
+    "ignored_tags": [
+        "modeRegrind318",
+        "v_wheel_speed_rpm",
+        "Image",
+        "timestamp",
+        "updateNumber",
+        "variant"
+    ]
+}
